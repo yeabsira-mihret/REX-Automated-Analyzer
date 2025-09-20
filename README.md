@@ -1,6 +1,6 @@
 # 🧩 REX: Reverse Engineering Automation Tool
 
-REX (Reverse Engineering eXpert) is a lightweight automated static analysis tool designed to assist malware analysts and reverse engineers. It provides file fingerprinting, entropy analysis, string extraction, section parsing (ELF/PE), and YARA rule matching in one click, so analysts can save time and focus on deeper analysis.
+REX is a lightweight automated static analysis tool designed to assist malware analysts and reverse engineers. It provides file fingerprinting, entropy analysis, string extraction, section parsing (ELF/PE), and YARA rule matching in one click, so analysts can save time and focus on deeper analysis.
 
 ## 🚀 Features
 

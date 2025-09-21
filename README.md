@@ -14,7 +14,7 @@ REX is a lightweight automated static analysis tool designed to assist malware a
 
 ✅ JSON export for automation pipelines
 
-✅ Simple GUI frontend + CLI backend
+✅ Simple GUI + CLI 
 
 ## 📦 Installation
 
